@@ -1,4 +1,4 @@
-package com.example.async_method;
+package com.xoxltn.async_method;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.Getter;

@@ -1,4 +1,4 @@
-package com.example.async_method;
+package com.xoxltn.async_method;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
